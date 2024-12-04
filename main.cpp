@@ -1,4 +1,5 @@
 #include <iostream>
+#include "std.h"
 
 int main() {
     int num1, num2;
